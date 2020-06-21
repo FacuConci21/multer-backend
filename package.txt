@@ -1,20 +1,20 @@
 {
   "name": "multer-backend",
-  "scripts": {
+  + scripts:
     "start": "cross-env NODE_ENV=production nodemon src/index.js",
     "dev": "cross-env NODE_ENV=development nodemon src/index.js"
-  },
-  "dependencies": {
-    "cors": "^2.8.5",
-    "cross-env": "^7.0.2",
-    "dotenv": "^8.2.0",
-    "express": "^4.17.1",
-    "mongodb": "^3.5.9",
-    "mongoose": "^5.9.19",
-    "morgan": "^1.10.0",
-    "multer": "^1.4.2"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.4"
-  }
+
+  + dependencies:
+    cors: "^2.8.5",
+    cross-env: "^7.0.2",
+    dotenv: "^8.2.0",
+    express: "^4.17.1",
+    mongodb: "^3.5.9",
+    mongoose: "^5.9.19",
+    morgan: "^1.10.0",
+    multer: "^1.4.2"
+    
+  + devDependencies:
+    nodemon: "^2.0.4"
+ 
 }
