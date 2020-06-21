@@ -1,15 +1,9 @@
 {
   "name": "multer-backend",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
   "scripts": {
     "start": "cross-env NODE_ENV=production nodemon src/index.js",
     "dev": "cross-env NODE_ENV=development nodemon src/index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
     "cross-env": "^7.0.2",
