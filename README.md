@@ -1,7 +1,7 @@
 # multer-backend
-<h5>backend de practica con multer y transacciones</h5>
+<h5>Backend de practica con multer y transacciones</h5>
 
-<p>Proyecto de backend realizado con la iniciativa de crear un backend capaz de almacenar archivos y procesar transacciones</p>
+<p>Proyecto de backend realizado con la iniciativa de crear un backend capaz de almacenar archivos y procesar transacciones.</p>
 
 <h6>PD:</h6>
 
