@@ -18,4 +18,4 @@ por ultimo, para instalar nodemon:
 ```sh
 $ npm install --save nodemon -D
 ```
-agregas la opcion "-D"
+agregas la opcion "-D" para que sea una dependencia de desarrollo y se guarde en la seccion "devDependencies" del package.json
