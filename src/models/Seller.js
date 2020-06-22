@@ -10,6 +10,7 @@ const SellerSchema = new Schema({
     dni: {
         type: String, require:true, trim:true, maxlength:10,
     },
+    imgPath: String,
     birthDate: String,
     finances: {
         positive: { type: Number, default: 0.0},
