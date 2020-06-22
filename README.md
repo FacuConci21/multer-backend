@@ -14,6 +14,7 @@ despues instalar las dependencias (todas menos nodemon):
 $ npm install --save all-dependencies
 ```
 
+Para saber que dependencias hay que instalar, podes abrir el package.txt que tiene las dependencias listadas.
 por ultimo, para instalar nodemon:
 ```sh
 $ npm install --save nodemon -D
