@@ -17,6 +17,7 @@ const ClientSchema = new Schema({
     dni: {
         type: String, require:true, trim:true, maxlength:10,
     },
+    imgPath: String,
     birthDate: String,
     carrito: [SingleBuySchema],
 },{
