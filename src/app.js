@@ -6,7 +6,7 @@ const path = require('path');
 
 // inititializations
 const app = express();
-const upload = multer({
+const upload = multer({ //aun falta configurar multer.
     dest: path.join(__dirname,'uploads'),
     filename: 'backend-file-' + Date.now() 
 });
@@ -29,6 +29,7 @@ app.use(cors());
 app.use('/api/clients', require('./routes/clients'));
 app.use('/api/sellers', require('./routes/sellers'));
 app.use('/api/products', require('./routes/products'));
+app.use('/api/venta',require('./routes/transaction'));
 
 // static files
 

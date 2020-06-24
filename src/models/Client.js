@@ -2,9 +2,9 @@ const Schema = require('mongoose').Schema;
 const model = require('mongoose').model;
 
 const SingleBuySchema = new Schema({
-    productName: { type: String, trim:true, require },
-    cuantity: { type: Number, require },
-    price: { type: Number, require}
+    productName: { type: String, trim:true, require: true },
+    cuantity: { type: Number, require: true },
+    price: { type: Number, require: true}
 },{
     timestamps: true
 })
@@ -25,5 +25,6 @@ const ClientSchema = new Schema({
 })
 
 
+module.exports = model('SingleBuy', SingleBuySchema);// No estoy seguro de que esta linea sea necesaria pero la dejo
 module.exports = model('Client', ClientSchema);
 
