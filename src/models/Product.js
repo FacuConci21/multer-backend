@@ -2,7 +2,6 @@ const mongoose = require('mongoose');
 const Schema = require('mongoose').Schema;
 const model = require('mongoose').model;
 
-
 const ProductSchema = new Schema({
     name: { type: String, maxlength: 50, required: true},
     description: {type: String, maxlength: 200, required: true},
