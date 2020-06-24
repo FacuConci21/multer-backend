@@ -1,0 +1,112 @@
+[{
+  "_id": {
+    "$oid": "5eecf4616aeb202460c03107"
+  },
+  "date": {
+    "$date": "2020-06-19T17:22:33.512Z"
+  },
+  "fullName": {
+    "firstName": "Juan",
+    "lastName": "Perez"
+  },
+  "dni": "121234124",
+  "birthDate": "22-3-1974",
+  "carrito": [
+    {
+      "_id": {
+        "$oid": "5ef113cd5214c941f81b5b2c"
+      },
+      "productName": "Palo de Golf",
+      "cuantity": 1,
+      "price": 20000,
+      "createdAt": {
+        "$date": "2020-06-22T20:25:49.632Z"
+      },
+      "updatedAt": {
+        "$date": "2020-06-22T20:25:49.632Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "5ef39fcf98084b34244322aa"
+      },
+      "productName": "Termo",
+      "cuantity": 2,
+      "price": 300,
+      "createdAt": {
+        "$date": "2020-06-24T18:47:43.760Z"
+      },
+      "updatedAt": {
+        "$date": "2020-06-24T18:47:43.760Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2020-06-19T17:22:41.216Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-24T18:47:43.760Z"
+  },
+  "__v": 3
+},{
+  "_id": {
+    "$oid": "5eecf4dc3ba4e13dd41148a6"
+  },
+  "fullName": {
+    "firstName": "Alfredo",
+    "lastName": "Ramos"
+  },
+  "dni": "121239994",
+  "birthDate": "12-5-1974",
+  "carrito": [
+    {
+      "_id": {
+        "$oid": "5ef39ec3312e5d0ffc54646a"
+      },
+      "productName": "Termo",
+      "cuantity": 2,
+      "price": 300,
+      "createdAt": {
+        "$date": "2020-06-24T18:43:15.939Z"
+      },
+      "updatedAt": {
+        "$date": "2020-06-24T18:43:15.939Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "5ef39f08f7f44228d87dd2d7"
+      },
+      "productName": "Termo",
+      "cuantity": 2,
+      "price": 300,
+      "createdAt": {
+        "$date": "2020-06-24T18:44:24.954Z"
+      },
+      "updatedAt": {
+        "$date": "2020-06-24T18:44:24.954Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "5ef39f9598084b34244322a9"
+      },
+      "productName": "Termo",
+      "cuantity": 2,
+      "price": 300,
+      "createdAt": {
+        "$date": "2020-06-24T18:46:45.628Z"
+      },
+      "updatedAt": {
+        "$date": "2020-06-24T18:46:45.628Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2020-06-19T17:24:44.850Z"
+  },
+  "updatedAt": {
+    "$date": "2020-06-24T18:46:45.628Z"
+  },
+  "__v": 14
+}]

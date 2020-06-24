@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "5eee7ebf60f78a49f89d1a3c"
+  },
+  "abailables": 12,
+  "name": "Termo",
+  "description": "Termo con interior de vidrio",
+  "price": 300,
+  "sellerId": "5eee67f4c5881b48d062de40",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eee7fed60f78a49f89d1a3d"
+  },
+  "abailables": 4,
+  "name": "Mate",
+  "description": "Mate de porcelana",
+  "price": 150,
+  "sellerId": "5eee67f4c5881b48d062de40",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eee7fff60f78a49f89d1a3e"
+  },
+  "abailables": 50,
+  "name": "Bombilla",
+  "description": "Bombilla para matear afaeerte",
+  "price": 30,
+  "sellerId": "5eee67f4c5881b48d062de40",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eee800460f78a49f89d1a3f"
+  },
+  "abailables": 4,
+  "name": "Yerbera",
+  "description": "Yerbera y azucarera - all in one",
+  "price": 60,
+  "sellerId": "5eee67f4c5881b48d062de40",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eee8192d1b031326401300f"
+  },
+  "abailables": 11,
+  "name": "Raqueta de tenis",
+  "description": "Raqueta de tenis usada",
+  "price": 2000,
+  "sellerId": "5eee69b2ad796141b4234671",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eee81e8d1b0313264013010"
+  },
+  "abailables": 40,
+  "name": "Palo de Golf",
+  "description": "Palo de golf ... ahre",
+  "price": 20000,
+  "sellerId": "5eee69b2ad796141b4234671",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eee83c176cf721a04843928"
+  },
+  "abailables": 5,
+  "name": "Guantes",
+  "description": "Guantes para jugar al voley",
+  "price": 11111,
+  "sellerId": "5eee69b2ad796141b4234671",
+  "__v": 0
+}]

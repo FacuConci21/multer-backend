@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "5eee67f4c5881b48d062de40"
+  },
+  "fullName": {
+    "firstName": "Esteban",
+    "lastName": "Quito"
+  },
+  "dni": "404594933",
+  "__v": 0,
+  "birthDate": null
+},{
+  "_id": {
+    "$oid": "5eee69b2ad796141b4234671"
+  },
+  "fullName": {
+    "firstName": "Ramon",
+    "lastName": "Sellanes"
+  },
+  "dni": "40452452",
+  "__v": 0,
+  "birthDate": null
+}]
