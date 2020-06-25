@@ -6,7 +6,7 @@
 
 <h6>PD:</h6>
 
-solamente esta la carpeta src, hay que iniciar un proyecto con:
+Hay que iniciar un proyecto con:
 ```sh
 $ npm init
 ```
@@ -21,3 +21,5 @@ por ultimo, para instalar nodemon:
 $ npm install --save nodemon -D
 ```
 agregas la opcion "-D" para que sea una dependencia de desarrollo y se guarde en la seccion "devDependencies" del package.json
+
+Y todo esto culpa de que aun no se como se coloca el archivo gitignore, perdon jaja.
