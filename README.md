@@ -2,11 +2,12 @@
 <h5>Backend de practica con multer y transacciones</h5>
 
 <p>Proyecto de backend realizado con la iniciativa de crear un backend capaz de almacenar archivos y procesar transacciones.</p>
+<p>Si sos desarrollador frontend o estas estudiando frontend podes usar este proyecto como gustes, para practicar.</p>
 <p>Bueno, unicamente tiene una sola transaccion.</p>
-<p>Es una API REST, que simula un comercio electronico, por ello las collecciones utilizadas son 3:</p>
--clientes (clients).
--productos (products).
--vendedores (sellers).
+<p>Es una API REST, que simula un comercio electronico, por ello las colecciones utilizadas son 3:</p>
+<p>-clientes (clients).</p>
+<p>-productos (products).</p>
+<p>-vendedores (sellers).</p>
 
 <p>Y su unica transaccion simula la compra de un producto por parte del cliente.</p>
 En el dominio del problema planteado (o mas bien, la idea principal que tuve al hacer este proyecto) los vendedores se encargan de publicar
