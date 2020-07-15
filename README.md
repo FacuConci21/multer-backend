@@ -2,7 +2,10 @@
 <h5>Backend de practica con multer y transacciones</h5>
 
 <p>Proyecto de backend realizado con la iniciativa de crear un backend capaz de almacenar archivos y procesar transacciones.</p>
-<p>Bueno, solamente tiene una sola transaccion.</p>
+<p>Bueno, unicamente tiene una sola transaccion.</p>
+<p>Es una API REST, que simula un comercio electronico, por ello las collecciones utilizadas son 3:</p>
+<p></p>
+<p></p>
 
 <h6>PD:</h6>
 
